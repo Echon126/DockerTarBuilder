@@ -1,0 +1,17 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "authenticationType": "jwt",
+    "baseName": "myApp",
+    "clientFramework": "angular",
+    "devServerPort": 4200,
+    "entities": ["A", "B"],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "MmEzNGIyOTkzNmJjZmNjY2NkOWFkMzYwOGQxOWYyNzRlMmJhZmEyMmIxNDg5NmJhNzRjMmY3ODk0YzIwMmM3MTc3MzRjOWZmNzhmMzQwNmQxYWEzMDhjNDk5MTFmN2IwNGU5MDkyNTQ2YmQ4ODY4NDljZTEzYzA2YjkwNmRkMjc=",
+    "languages": ["en"],
+    "lastLiquibaseTimestamp": 1733196593000,
+    "nativeLanguage": "en",
+    "packageName": "com.myapp",
+    "prodDatabaseType": "mysql"
+  }
+}
